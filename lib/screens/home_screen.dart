@@ -100,7 +100,7 @@ class _HomeScreenState extends State<HomeScreen> {
                         crossAxisAlignment: CrossAxisAlignment.start,
                         children: [
                           Text(
-                            'Premium',
+                            'Hello',
                             style: AppTextStyles.bodyLarge.copyWith(color: AppColors.primary),
                           ),
                           Text(
