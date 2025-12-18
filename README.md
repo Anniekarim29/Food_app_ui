@@ -2,9 +2,8 @@
 
 A high-end, smooth-as-silk Flutter application designed for a premium food delivery experience. Featuring **Glassmorphism**, **3D-Transformed Animations**, and a sophisticated **Dark Theme**.
 
----
 
-## ✨ Features
+##  Features
 
 - **Premium UI/UX**: Crafted with a deep black aesthetic and vibrant orange accents.
 - **Curved Wheel Carousel**: A custom-built `PageView` with 3D rotation and translation for an immersive browsing experience.
@@ -12,8 +11,6 @@ A high-end, smooth-as-silk Flutter application designed for a premium food deliv
 - **Animated Interactions**: Micro-animations on buttons, staggered entrance effects, and playful success popups.
 - **Hero Transitions**: Seamless shared-element transitions between the showcase and details screens.
 - **Responsive Design**: Carefully handled layout constraints to prevent overflows on various screen sizes.
-
----
 
 ## 📱 App Screenshots
 
@@ -40,7 +37,6 @@ A high-end, smooth-as-silk Flutter application designed for a premium food deliv
 - **Flutter Animate**: For sophisticated, high-performance animations.
 - **Custom Components**: GlassContainers, SoftShadows, and Animated Buttons.
 
----
 
 ## 🚀 Getting Started
 
